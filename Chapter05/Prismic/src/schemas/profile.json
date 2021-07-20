@@ -1,0 +1,15 @@
+{
+  "Main" : {
+    "photo" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : {
+          "width" : 400,
+          "height" : 400
+        },
+        "thumbnails" : [ ],
+        "label" : "photo"
+      }
+    }
+  }
+}

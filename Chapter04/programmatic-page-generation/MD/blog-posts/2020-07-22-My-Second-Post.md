@@ -1,0 +1,33 @@
+---
+type: Blog
+title: An Introduction to Gatsby
+desc: Gatsby is an awesome tool - here is how to get started.
+date: 2020-07-22
+tags: [gatsby, webdev]
+---
+
+## Leaena venerat ast profugaque pariter
+
+Lorem markdownum quanto, ait medius **sit vos** et obruerat superos, fine, illi,
+una contigerant quod. Lurida est hac exitium vitae stellamque unius subito, et.
+Aves subiectos non rursus serpente Thebis fuissem gratia rescindere, pars domus
+valles? **Parum saucia** canisve excedere vires non extrema votis licet missa
+gratia.
+
+> Stella letataque vidit promissas quod obstat patiuntur serpere. Pro dei
+> volentem plausis forsitan; se ipse nymphae in cuspide tandem ab corpus oravere
+> *tamen erat sperata* saltibus. Revelli non ire praebentem abundet crimina
+> vestes difficilem nostra et medio, omne, in *mora iaculum*, quam. Barbara
+> iamque **non** fratrem cornua in et et ille.
+
+Quod sic si possedit conquerar passu dare: bello haec dedisti. Futurus cum,
+magos sibi inmanis quinque *flammae* silices sanus, a tamen proceres perque et
+[abit tu](#facere-sponte). Ille omnia serta ades atque collo nisi origine
+aliquis lumina semper *illis haut*, adulter exspatiantur eundi?
+
+Et mei, est qui aut tenuere violesque, motos pedibus. **Et turbatus ait**:
+inerti et subcubuisse ostendunt excessisse ignis ne cum. Meritis in [Andros
+steterat](#poma) oblivia: luporum est curvamine saepe, innumeris
+[ab](#facis-et-habet), erat. Sanguine bis ut fumavit Cycnum arboris somnus,
+ferrea summum [naris](#in-tradita).
+

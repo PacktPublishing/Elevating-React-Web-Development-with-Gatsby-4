@@ -1,0 +1,19 @@
+{
+    "Main" : {
+      "hobbies" : {
+        "type" : "Group",
+        "config" : {
+          "fields" : {
+            "hobby" : {
+              "type" : "StructuredText",
+              "config" : {
+                "single" : "paragraph",
+                "label" : "hobby"
+              }
+            }
+          },
+          "label" : "hobbies"
+        }
+      }
+    }
+  }
