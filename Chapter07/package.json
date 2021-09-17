@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pre-commit": "npm run test",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "jest -env=jsdom"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -29,7 +28,9 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet-async": "^1.0.9",
-    "tailwindcss": "^2.1.2"
+    "tailwindcss": "^2.1.2",
+    "web-vitals": "^2.1.0",
+    "web-vitals-react-hook": "^1.0.4"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.14.1",

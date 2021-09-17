@@ -10,7 +10,6 @@ export default function Index({ data }) {
       siteMetadata: { name, role },
     },
   } = data;
-
   return (
     <Layout>
       <SEO title="Home" description="The landing page of my website" />
