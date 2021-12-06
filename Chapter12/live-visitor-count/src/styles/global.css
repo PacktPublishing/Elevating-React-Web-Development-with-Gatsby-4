@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+    @apply px-4 py-3 bg-blue-600 text-white rounded;
+}
+
+.btn:hover {
+    @apply bg-blue-700;
+}
