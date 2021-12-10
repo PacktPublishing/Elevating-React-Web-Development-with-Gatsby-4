@@ -19,7 +19,7 @@ const AuthenticatedPage = () => {
   const { logout } = useAuth();
   return (
     <Layout>
-      <h1>Authentivated Page</h1>
+      <h1>Authenticated Page</h1>
       <button onClick={logout}>Logout</button>
     </Layout>
   );
