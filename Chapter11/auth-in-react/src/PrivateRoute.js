@@ -4,7 +4,6 @@ import { useAuth } from "./auth-context";
 
 const PrivateRoute = ({
   component: Component,
-  location,
   basepath,
   ...rest
 }) => {

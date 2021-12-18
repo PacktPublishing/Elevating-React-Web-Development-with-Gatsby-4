@@ -15,6 +15,7 @@ module.exports = {
         path: `${__dirname}/MDX`,
       },
     },
+    `gatsby-plugin-image`,
     {
       resolve: 'gatsby-source-graphcms',
       options: {

@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^3.1.2",
-    "gatsby-plugin-sass": "^4.3.0",
+    "gatsby": "^4.4.0",
+    "gatsby-plugin-sass": "^5.4.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "sass": "^1.32.11"

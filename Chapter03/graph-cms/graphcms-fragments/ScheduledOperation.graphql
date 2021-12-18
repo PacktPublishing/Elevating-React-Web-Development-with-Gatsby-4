@@ -1,0 +1,52 @@
+fragment ScheduledOperation on ScheduledOperation {
+  stage
+  remoteId: id
+  createdAt
+  updatedAt
+  publishedAt
+  description
+  errorMessage
+  rawPayload
+  createdBy {
+    ... on User {
+      remoteTypeName: __typename
+      remoteId: id
+      stage
+    }
+  }
+  updatedBy {
+    ... on User {
+      remoteTypeName: __typename
+      remoteId: id
+      stage
+    }
+  }
+  publishedBy {
+    ... on User {
+      remoteTypeName: __typename
+      remoteId: id
+      stage
+    }
+  }
+  release {
+    ... on ScheduledRelease {
+      remoteTypeName: __typename
+      remoteId: id
+      stage
+    }
+  }
+  status
+  affectedDocuments {
+    ... on Asset {
+      remoteTypeName: __typename
+      remoteId: id
+      locale
+      stage
+    }
+    ... on Icebreaker {
+      remoteTypeName: __typename
+      remoteId: id
+      stage
+    }
+  }
+}

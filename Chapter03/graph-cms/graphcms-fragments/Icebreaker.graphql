@@ -2,6 +2,9 @@ fragment Icebreaker on Icebreaker {
   stage
   remoteId: id
   createdAt
+  updatedAt
+  publishedAt
+  hobbies
   createdBy {
     ... on User {
       remoteTypeName: __typename
@@ -9,7 +12,6 @@ fragment Icebreaker on Icebreaker {
       stage
     }
   }
-  updatedAt
   updatedBy {
     ... on User {
       remoteTypeName: __typename
@@ -17,7 +19,6 @@ fragment Icebreaker on Icebreaker {
       stage
     }
   }
-  publishedAt
   publishedBy {
     ... on User {
       remoteTypeName: __typename
@@ -25,5 +26,11 @@ fragment Icebreaker on Icebreaker {
       stage
     }
   }
-  hobbies
+  scheduledIn {
+    ... on ScheduledOperation {
+      remoteTypeName: __typename
+      remoteId: id
+      stage
+    }
+  }
 }
