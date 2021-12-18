@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
 import Layout from "../components/layout/Layout";
 import SEO from "../components/layout/SEO";
-import Button from "../components/demos/ButtonTracking";
 
 export default function Index({ data }) {
   const {

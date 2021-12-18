@@ -50,11 +50,5 @@ module.exports = {
         filter: (node, getNode) => node.frontmatter.type === "Blog",
       },
     },
-    {
-      resolve: "gatsby-plugin-fathom",
-      options: {
-        siteId: "SWWVCCXF",
-      },
-    },
   ],
 };
