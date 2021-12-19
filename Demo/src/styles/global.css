@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+    min-height: calc(100vh - 200px);
+}
+.btn {
+    @apply px-4 py-3 bg-blue-600 text-white rounded;
+}
+
+.btn:hover {
+    @apply bg-blue-700;
+}
+
+.btn-secondary {
+    @apply px-4 py-3 border-2 border-blue-600 text-blue-600 rounded;
+}
+
+.btn-secondary:hover {
+    @apply bg-blue-100;
+}
