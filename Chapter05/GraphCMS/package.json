@@ -16,7 +16,7 @@
   "dependencies": {
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^3.0.2",
     "@tailwindcss/typography": "^0.4.1",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "gatsby": "^4.4.0",
     "gatsby-plugin-image": "^2.4.0",
     "gatsby-plugin-mdx": "^3.4.0",
