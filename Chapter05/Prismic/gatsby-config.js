@@ -36,7 +36,6 @@ module.exports = {
       options: {
         repositoryName: "elevating-gatsby",
         schemas: {
-          icebreaker2: {}, // Old types can be passed an empty object
           icebreaker: require("./src/schemas/icebreaker.json"),
           profile: require("./src/schemas/profile.json"),
         },
