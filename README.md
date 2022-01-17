@@ -45,7 +45,7 @@ With the following software and hardware list you can run all code files present
 | 1-13 | React 17.x | Windows, Mac OS X, and Linux |
 | 1-13 | Node.js LTS | Windows, Mac OS X, and Linux |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781803235950_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800209091_ColorImages.pdf).
 
 ### Related products
 * Full-Stack React Projects [[Packt]](https://www.packtpub.com/product/full-stack-react-projects-second-edition/9781839215414) [[Amazon]](https://www.amazon.com/dp/1839215410)
@@ -56,4 +56,4 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 
 **Samuel Larsen-Disney** 
- studied Computer Science at King's College London. He helped design and build American Express' websites. Since then he moved to BehaviourLab where he led front-end development before deciding he wanted to get out of finance. He has since become a Senior Front-End Engineer at Zone. He is most at home coding in React, Javascript, GraphQL & Gatsby but is always open to learning something new. When coding he likes to ensure his code is accessible and performant. In the last year Sam has contributed 1300+ times to open source projects. He enjoys teaching the next generation to code through his articles, presentations and at hackathons.
+Sam studied Computer Science at King's College London. He helped design and build American Express' websites. Since then he moved to BehaviourLab where he led front-end development before deciding he wanted to get out of finance. He has since become a Senior Front-End Engineer at Zone. He is most at home coding in React, Javascript, GraphQL & Gatsby but is always open to learning something new. When coding he likes to ensure his code is accessible and performant. In the last year Sam has contributed 1300+ times to open source projects. He enjoys teaching the next generation to code through his articles, presentations and at hackathons.
