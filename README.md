@@ -31,7 +31,6 @@ module.exports = {
     'gatsby-plugin-sass'
   ],
 };
-
 ```
 
 **Following is what you need for this book:**
