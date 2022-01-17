@@ -45,7 +45,7 @@ With the following software and hardware list you can run all code files present
 | 1-13 | React 17.x | Windows, Mac OS X, and Linux |
 | 1-13 | Node.js LTS | Windows, Mac OS X, and Linux |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801812160_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781803235950_ColorImages.pdf).
 
 ### Related products
 * Full-Stack React Projects [[Packt]](https://www.packtpub.com/product/full-stack-react-projects-second-edition/9781839215414) [[Amazon]](https://www.amazon.com/dp/1839215410)
