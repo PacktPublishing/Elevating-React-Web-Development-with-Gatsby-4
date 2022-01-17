@@ -33,7 +33,6 @@ module.exports = {
 };
 
 ```
-
 **Following is what you need for this book:**
 This book is for web developers who want to use GatsbyJS with React to build better static and dynamic client-side apps. Prior experience of working with React basics is necessary. Knowledge of Node.js fundamentals will help you to get the most out of this web development book.
 
