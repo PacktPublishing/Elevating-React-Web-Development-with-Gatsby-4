@@ -51,11 +51,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products
 * Full-Stack React Projects [[Packt]](https://www.packtpub.com/product/full-stack-react-projects-second-edition/9781839215414) [[Amazon]](https://www.amazon.com/dp/1839215410)
 
-* React Projects [[Packt]](https://www.packtpub.com/product/react-projects-second-edition/9781801070638) [[Amazon]](https://www.packtpub.com/product/react-projects-second-edition/9781801070638)
+* React Projects [[Packt]](https://www.packtpub.com/product/react-projects-second-edition/9781801070638) [[Amazon]](https://www.amazon.com/React-Projects-cross-platform-professional-developer/dp/1801070636)
 
 
 ## Get to Know the Author
 
 **Samuel Larsen-Disney** 
 Sam studied Computer Science at King's College London. He helped design and build American Express' websites. Since then he moved to BehaviourLab where he led front-end development before deciding he wanted to get out of finance. He has since become a Senior Front-End Engineer at Zone. He is most at home coding in React, Javascript, GraphQL & Gatsby but is always open to learning something new. When coding he likes to ensure his code is accessible and performant. In the last year Sam has contributed 1300+ times to open source projects. He enjoys teaching the next generation to code through his articles, presentations and at hackathons.
-
