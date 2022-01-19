@@ -4,7 +4,7 @@
 
 This is the code repository for [Elevating React Web Development with Gatsby](https://www.packtpub.com/product/elevating-react-web-development-with-gatsby-4/9781800209091), published by Packt.
 
-**Build performant, accessible, and interactive web applications with React and Gatsby.js 4**
+**Practical guide to building performant, accessible, and interactive web apps with React and Gatsby.js 4**
 
 ## What is this book about?
 Gatsby is a powerful React static site generator that enables you to create lightning-fast web experiences. With the latest version of Gatsby, you can combine your static content with server-side rendered and deferred static content to create a fully rounded application. Elevating React Web Development with Gatsby provides a comprehensive introduction for anyone new to GatsbyJS and will help you get up to speed in no time.
