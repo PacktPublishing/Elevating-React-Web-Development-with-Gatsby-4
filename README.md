@@ -57,3 +57,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 **Samuel Larsen-Disney** 
  studied Computer Science at King's College London. He helped design and build American Express' websites. Since then he moved to BehaviourLab where he led front-end development before deciding he wanted to get out of finance. He has since become a Senior Front-End Engineer at Zone. He is most at home coding in React, Javascript, GraphQL & Gatsby but is always open to learning something new. When coding he likes to ensure his code is accessible and performant. In the last year Sam has contributed 1300+ times to open source projects. He enjoys teaching the next generation to code through his articles, presentations and at hackathons.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800209091">https://packt.link/free-ebook/9781800209091 </a> </p>
